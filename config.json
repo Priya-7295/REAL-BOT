@@ -3,61 +3,55 @@
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
-    "allowInbox": true,
-    "autoClean": false,
+    "allowInbox": false,
+    "autoClean": true,
     "adminOnly": false,
     "keyAdminOnly": "",
-    "commandDisabled": [],
-    "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
-    "OTPKEY": "",
-    "BOTNAME": "✦𝘽𝙤𝙩✦",
-    "PREFIX": "/",
-    "OTHERBOT": [
+    "commandDisabled": [
+        "",
+        "",
+        "",
+        "",
         ""
     ],
-    "UNSENTVIP": [
-        "100037743553265",
+    "eventDisabled": [
+        "",
+        ""
+    ],
+    "BOTOWNER": "SHANKAR-SUMAN",
+    "OWNERLINK": "https://www.facebook.com/shankar.suman.98622733",
+    "OWNERID": "100058415170590",
+    "BOTCREATOR": "SHANKAR-SUMAN",
+    "APIKEY": "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",
+    "openai": "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",
+    "CREATORLINK": "https://www.facebook.com/shankar.suman.98622733",
+    "PERMISSION1": [
+        "100058415170590",
+        "",
+        "",
+        ""
+    ],
+    "RestartEvery": 30,
+    "ONLY": [
+        "",
+        "",
+        ""
+    ],
+    "PASSWORD": "",
+    "autoaccept": "true",
+    "BOTNAME": "TAKLU BABU",
+    "PREFIX": "#",
+    "ADMINBOT": [
+        "100058415170590",
+        "",
+        "",
+        "",
+        "",
         ""
     ],
     "GOD": [
-        "100037743553265",
-        ""
+        "100058415170590"
     ],
-    "ADMINBOT": [
-        "100037743553265",
-        ""
-    ],
-    "OWNER": "𝕻𝖗𝖎𝖞𝖆𝖓𝖘𝖍 𝕽𝖆𝖏𝖕𝖚𝖙",
-    "AGE": "21",
-    "GENDER": "𝗠𝗮𝗟𝗲",
-    "FACEBOOK": "https://www.facebook.com/Priyanshu.Rajput.Oficial",
-    "AutoOffBot": "disable",
-    "AutoOffBotStartSleep": "disable",
-    "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
-    "AutoOffBotEndSleep": "disable",
-    "AutoGreet": "disable",
-    "AutoGreetWithSticker": "enable",
-    "AutoGreetSendPerHour": "1",
-    "AutoPost": "disable",
-    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝕻𝖗𝖎𝖞𝖆𝖓𝖘𝖍 𝕽𝖆𝖏𝖕𝖚𝖙☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙ𝕣𝕚𝕪𝕒𝕟𝕤𝕙〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/profile.php?id=100037743553265 ☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Priyanshrajput☜",
-    "AutoPostPerHour": "1",
-    "AutoPostGreet": "disable",
-    "AutoPostGreetPostPerHour": "6",
-    "AutoPostChristmasCountdown": "disable",
-    "HolidayAutoGreet": "disable",
-    "ChristmasCountdown": "disable",
-    "AcceptFriendRequest": "accept",
-    "AutoPendingGroupChat": "accept",
-    "AutoBioStatus": "enable",
-    "AutoBioStatusSetPerHour": "1",
-    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝕻𝖗𝖎𝖞𝖆𝖓𝖘𝖍 𝕽𝖆𝖏𝖕𝖚𝖙☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙ𝕣𝕚𝕪𝕒𝕟𝕤𝕙〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/profile.php?id=100037743553265 ☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Priyanshrajput☜",
-    "AutoLeave": "enable",
-    "RandomRedditMemes": "enable",
-    "RandomRedditMemesSendPerHour": "1",
-    "Randombibleverse": "disable",
-    "Uptimelogs": true,
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
@@ -73,10 +67,6 @@
         "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
     },
     "version": "1.2.14",
-    "help": {
-        "autoUnsend": "",
-        "delayUnsend": 60
-    },
     "adminUpdate": {
         "autoUnsend": true,
         "sendNoti": true,
@@ -127,6 +117,9 @@
     "weather": {
         "OPEN_WEATHER": "b7f1db5959a1f5b2a079912b03f0cd96"
     },
+    "shoti": {
+        "APIKEY": "shoti-1h7074rjh540vfka5k8"
+    },
     "simsimi": {
         "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
     },
@@ -138,7 +131,7 @@
     },
     "daily": {
         "cooldownTime": 43200000,
-        "rewardCoin": 19310000
+        "rewardCoin": 10000000000
     },
     "manslap": {
         "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
@@ -179,13 +172,108 @@
         "autoUnsend": true,
         "delayUnsend": 300
     },
-    "god": {
-        "enable": true
+    "sim2": {
+        "APIKEY": "Meew_xVZVZ6g5i7Zz0TJyhTkDueNKlaoiOR"
     },
     "bannerbw": {
         "APIKEY": "ntkhang"
     },
-    "messageforrealcreator": {
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "hitbutt": {
+        "APIKEY": ""
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "img": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sing1": {
+        "API_KEY": "KeyTest_3Days"
+    },
+    "sortword": {
+        "APIKEY": ""
+    },
+    "soundcloud": {
+        "SOUNDCLOUD_API": "2uVsdjJYhZBsWRcsjxJPynPAgR1zE9OKJhKxydA41abYJfx08J"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": true,
+        "delThread": true
+    },
+    "tiktoksearch": {
+        "key": "DuI7QIGh"
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "sing2": {
+        "YOUTUBE_API": "AIzaSyC4iLJTqxpkRvDYSUnDHkUVAj0H4q5f3GE"
+    },
+    "tiktok": {
+        "API_KEY": "mzkFree_722124509AC10"
+    },
+    "help": {
+        "autoUnsend": "",
+        "delayUnsend": 20
+    },
+    "god": {
         "enable": true
+    },
+    "workv2": {
+        "cooldownTime": 12000000
+    },
+    "help3": {
+        "autoUnsend": true,
+        "delayUnsend": 500
+    },
+    "tuongtac": {
+        "maxColumn": 10
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "weeklybox": {
+        "cooldownTime": 604800000,
+        "rewardCoin": 14000
+    },
+    "monthly": {
+        "cooldownTime": 2592000000,
+        "rewardCoin": 30000
+    },
+    "hourly": {
+        "cooldownTime": 3600000,
+        "rewardCoin": 2700
+    },
+    "yearlybox": {
+        "cooldownTime": 31536000000,
+        "rewardCoin": 50000000000
+    },
+    "adminNoti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "token": {
+        "autoUnsend": true,
+        "delayUnsend": 300
+    },
+    "botchk": {
+        "autoUnsend": "",
+        "unsendMessageAfter": 5
     }
 }
